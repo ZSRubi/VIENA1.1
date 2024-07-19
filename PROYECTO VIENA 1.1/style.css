@@ -48,13 +48,13 @@ header{
     background-color:#3f8623 ;
     color: #FFF;
 }
-#cadastro{
+#registro{
     background-color: #77a359;
     border-radius: 20px;
     border: solid black 2px;
 }
 
-#cadastro:hover{
+#registro:hover{
     background-color: #3f8623 ;
     color: #FFF; 
 }
